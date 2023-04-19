@@ -8,13 +8,13 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "products": {
-    "name": "iPhone 14 Pro Max",
-    "price": 29490000,
-    "description": "Chip Apple A16 Bionic | RAM: 6 GB | Dung lượng: 128 GB | Camera sau: Chính 48 MP & Phụ 12 MP, 12 MP | Camera trước: 12 MP | Pin 4323 mAh, Sạc 20 W",
-    "quantity": 44,
-    "type": "iphone",
-    "image": "https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-vang-thumb-600x600.jpg",
-    "id": "1"
-   }
+  "profile": {
+      "name": "iPhone 14 Pro Max",
+      "price": 29490000,
+      "description": "Chip Apple A16 Bionic | RAM: 6 GB | Dung lượng: 128 GB | Camera sau: Chính 48 MP & Phụ 12 MP, 12 MP | Camera trước: 12 MP | Pin 4323 mAh, Sạc 20 W",
+      "quantity": 44,
+      "type": "iphone",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-vang-thumb-600x600.jpg",
+      "id": "1"
+  }
 }
