@@ -17,13 +17,13 @@
       "image": "https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-vang-thumb-600x600.jpg",
       "id": "1"
   },
-  {
-    "name": "iPhone 14 Pro",
-    "price": 29490000,
-    "description": "Chip Apple A16 Bionic | RAM: 6 GB | Dung lượng: 128 GB | Camera sau: Chính 48 MP & Phụ 12 MP, 12 MP | Camera trước: 12 MP | Pin 3200 mAh, Sạc 20 W",
-    "quantity": 13,
-    "type": "iphone",
-    "image": "https://cdn.tgdd.vn/Products/Images/42/247508/iphone-14-pro-tim-thumb-600x600.jpg",
-    "id": "2"
-  }
+    {
+      "name": "iPhone 14 Pro",
+      "price": 29490000,
+      "description": "Chip Apple A16 Bionic | RAM: 6 GB | Dung lượng: 128 GB | Camera sau: Chính 48 MP & Phụ 12 MP, 12 MP | Camera trước: 12 MP | Pin 3200 mAh, Sạc 20 W",
+      "quantity": 13,
+      "type": "iphone",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/247508/iphone-14-pro-tim-thumb-600x600.jpg",
+      "id": "2"
+    }
 }
